@@ -54,8 +54,7 @@
                         android:layout_height="194dp"
                         android:contentDescription="圖片說明"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/media" />
-
+                        app:srcCompat="@drawable/media1" />
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -66,14 +65,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="標題"
+                            android:text="Durbach"
                             android:textAppearance="?attr/textAppearanceTitleMedium" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="8dp"
-                            android:text="副標題"
+                            android:text="A little village near Offenburg"
                             android:textAppearance="?attr/textAppearanceBodyMedium"
                             android:textColor="?android:attr/textColorSecondary" />
 
@@ -92,13 +91,12 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginEnd="8dp"
-                            android:text="按鈕1" />
-
+                            android:text="Like" />
                         <com.google.android.material.button.MaterialButton
                             style="?attr/borderlessButtonStyle"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="按鈕2" />
+                            android:text="More" />
                     </LinearLayout>
 
                 </LinearLayout>
@@ -128,8 +126,7 @@
                         android:layout_height="194dp"
                         android:contentDescription="圖片說明"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/media" />
-
+                        app:srcCompat="@drawable/media2" />
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -140,14 +137,13 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="標題"
+                            android:text="Königssee"
                             android:textAppearance="?attr/textAppearanceTitleMedium" />
-
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="8dp"
-                            android:text="副標題"
+                            android:text="The Königssee is a natural lake in the southeast Berchtesgadener Land district of the German state of Bavaria"
                             android:textAppearance="?attr/textAppearanceBodyMedium"
                             android:textColor="?android:attr/textColorSecondary" />
 
@@ -165,13 +161,12 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginEnd="8dp"
-                            android:text="按鈕1" />
-
+                            android:text="Like" />
                         <com.google.android.material.button.MaterialButton
                             style="?attr/borderlessButtonStyle"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="按鈕2" />
+                            android:text="More" />
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
@@ -199,8 +194,7 @@
                         android:layout_height="194dp"
                         android:contentDescription="圖片說明"
                         android:scaleType="centerCrop"
-                        app:srcCompat="@drawable/media" />
-
+                        app:srcCompat="@drawable/media3" />
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -211,14 +205,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="標題"
+                            android:text="Bundesstraße"
                             android:textAppearance="?attr/textAppearanceTitleMedium" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="8dp"
-                            android:text="副標題"
+                            android:text="Bundesstraße (German for &quot;federal highway&quot;), abbreviated B, is the denotation for German and Austrian national highways."
                             android:textAppearance="?attr/textAppearanceBodyMedium"
                             android:textColor="?android:attr/textColorSecondary" />
 
@@ -236,13 +230,12 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginEnd="8dp"
-                            android:text="按鈕1" />
-
+                            android:text="Like" />
                         <com.google.android.material.button.MaterialButton
                             style="?attr/borderlessButtonStyle"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="按鈕2" />
+                            android:text="More" />
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
